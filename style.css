@@ -1,0 +1,79 @@
+		.bigdiv{
+	    	height: 885px;
+	    	width: 875px;
+	    	margin-left: auto;
+	    	margin-right: auto;
+	    	border: solid;
+	    }
+		.cage{
+            border: solid;
+            height: 75px;
+	    	width: 75px;
+		}
+		.life{
+            border: solid;
+            height: 75px;
+	    	width: 75px;
+	    	text-align: center;
+	    	margin-top: 12px;
+		}
+		.cage1{
+            border: solid;
+            height: 75px;
+	    	width: 75px;
+		}
+		.cage2{
+            border: solid;
+            height: 75px;
+	    	width: 75px;
+		}
+		.cage3{
+            border: solid;
+            height: 75px;
+	    	width: 75px;
+		}
+		.cage4{
+            border: solid;
+            height: 75px;
+	    	width: 75px;
+		}
+		.first{
+            display: flex;
+		}
+		.letter{
+			border: solid;
+            height: 75px;
+	    	width: 75px;
+	    	text-align: center;
+		}
+		.menu{
+			height: 100px;
+	    	width: 875px;
+	    	margin-left: auto;
+	    	margin-right: auto;
+	    	border: solid;
+		}
+		.score1{
+            border: solid;
+            height: 75px;
+	    	width: 75px;
+	    	text-align: center;
+	    	margin-top: 12px;
+		}
+		.boats1{
+			border: solid;
+            height: 75px;
+	    	width: 75px;
+	    	text-align: center;
+	    	position: absolute;
+	    	margin-left: 795px;
+	    	margin-top: 12px;
+		}
+		.win{
+			background-color: lightblue;
+        	height: 1000px;
+        	width: 2000px;
+        	display: none;
+        	position: absolute;
+        	background-size: 100% 100%;
+		}
